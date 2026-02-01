@@ -15,3 +15,7 @@ results/plots/
 # editor
 .vscode/
 .DS_Store
+
+# data artifacts
+data/*.bin
+*.bin
