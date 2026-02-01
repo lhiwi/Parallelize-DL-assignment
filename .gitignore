@@ -1,0 +1,17 @@
+# build outputs
+*.o
+*.out
+*.exe
+bin/
+build/
+
+# dataset binaries (generated in Colab)
+data/*.bin
+
+# results generated from runs
+results/*.csv
+results/plots/
+
+# editor
+.vscode/
+.DS_Store
