@@ -19,3 +19,4 @@ results/plots/
 # data artifacts
 data/*.bin
 *.bin
+.~lock.*
