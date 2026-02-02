@@ -1,5 +1,5 @@
 
-# Parallelization of Deep Learning Model Training (CNN) — Serial vs OpenMP
+# Parallelization of Deep Learning Model Training (CNN) 
 
 This repository contains a from-scratch **CNN training pipeline in C** and an **OpenMP parallel** implementation for accelerating training on a shared-memory CPU. The task is **binary classification** on the Malaria cell image dataset, exported into compact binary files to ensure fast loading and reproducible timing.
 
